@@ -1,0 +1,41 @@
+﻿Parts List:
+
+
+PGEB0054338 Ultra-Thin Battery:
+* 45 mAH
+* 0.5x43x38mm
+* 3.7V
+
+
+MB6S Vishay SMD Bridge Rectifier:
+* 0.5A
+* 2.70x4.10x4.95mm
+* 600V
+
+
+6R3R15X476MV4E Ceramic Chip Capacitor:
+* 47μF
+* 2.04x1.27x1.52mm
+* 6.3V
+
+
+MM3Z5V6 SMD Zener Diode:
+* 0.3W
+* 1.7x1.25x1.23mm
+* 5.6V
+
+
+Lumix SMD LED Light-
+* 70mW
+* 2.0x1.6x1.3mm
+* 3.5V
+
+
+SMD Momentary Push Button:
+* 50mA
+* 3.0x6.0x2.5mm
+* 12V
+
+
+SMD Chip Resistor
+* Work In Progress
