@@ -1,6 +1,5 @@
 ﻿Parts List:
 
-
 PGEB0054338 Ultra-Thin Battery:
 * 45 mAH
 * 0.5x43x38mm
